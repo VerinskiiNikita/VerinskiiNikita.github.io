@@ -13,9 +13,9 @@ a {
 
 .h {
     background-color: #2C5588;
-    position: fixed;
+    /* position: fixed;
     top:0;
-    width: 100%;
+    width: 100%; */
 }
 
 .f {
