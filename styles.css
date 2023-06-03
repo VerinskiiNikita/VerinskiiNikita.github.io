@@ -1,0 +1,53 @@
+body {
+    font: medium Tahoma, Arial;
+    margin: 0;
+    color: white;
+    background-color: #15222b;
+}
+
+a {
+    display: block;
+    font: small Tahoma, Arial;
+    color: white;
+}
+
+.h {
+    background-color: #2C5588;
+    position: fixed;
+    top:0;
+    width: 100%;
+}
+
+.f {
+    position: absolute;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+}
+
+.f > .link {
+    display: inline;
+    width: 30%;
+    background-color: white;
+    color: black;
+}
+
+.adv {
+    background-color: #2C5588;
+    text-align: center;
+}
+
+.link {
+    border-radius: 2px;
+    margin-top: 1px;
+    border: solid white 1px;
+}
+
+.link:hover {
+    background-color: gray;
+    border-color: white;
+}
+
+.inline {
+    display: inline-block;
+}
